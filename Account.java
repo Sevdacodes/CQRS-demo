@@ -6,7 +6,7 @@ import javax.persistence.Table;
 import java.math.BigDecimal;
 
 /**
- * @author BridgingCode - AJ Catambay
+ * @author S.SH
  **/
 @Entity
 public class Account {
